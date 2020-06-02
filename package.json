@@ -1,0 +1,18 @@
+{
+  "name": "artem-univer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "npm_install": "npm install",
+    "build": "gulp build",
+    "watch": "gulp watch"
+  },
+  "author": "Artem",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
